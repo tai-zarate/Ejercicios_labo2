@@ -22,7 +22,7 @@ namespace U3_I05
             Console.WriteLine("El vertice 3 es ({0};{1})", vertice3.GetX(), vertice3.GetY());
             Mostrar(rectangulo);
         }
-
+        //Funcion
         static void Mostrar(Rectangulo rectangulo)
         {
             Console.WriteLine("El area es {0}", rectangulo.Area());
